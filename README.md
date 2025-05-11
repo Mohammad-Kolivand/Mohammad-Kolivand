@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammadreza Kolivand</h1>
 <h3 align="center">Frontend Developer | Web UI/UX Engineer | React & Next Enthusiast</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Creating+Smart+%26+Scalable+Interfaces;Frontend+Developer+%7C+React+%7C+Next.js;Passionate+about+UI%2FUX+Design+%26+Web+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=00BFFF&center=true&vCenter=true&width=435&lines=Creating+Smart+%26+Scalable+Interfaces;Frontend+Developer+%7C+React+%7C+Next.js;Passionate+about+UI%2FUX+Design+%26+Web+Apps" alt="Typing SVG" />
 
 ---
 
