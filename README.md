@@ -85,9 +85,9 @@
 
 ## 📫 Contact Me
 
-- LinkedIn: YOUR LINK  
-- Telegram: YOUR LINK  
-- Email: YOUR EMAIL  
+- LinkedIn: [YOUR LINK](https://www.linkedin.com/in/mohammadreza-kolivand-a40396243/)  
+- Telegram: IceEagle3 
+- Email: Mohammadrezakolivand09@gmail.com
 
 ---
 
