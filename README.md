@@ -13,7 +13,7 @@
 💻 Junior Frontend Developer (React)  
 ⚡ Focused on building responsive, clean, and user-friendly UI  
 📚 Always learning and improving my skills in modern web technologies  
-🤝 Team player with strong collaboration mindset  
+🤝 TeamWork with strong collaboration mindset  
 🔄 Flexible and adaptable in fast-changing environments  
 💼 Committed and responsible in my work  
 🚀 Passionate about creating efficient and scalable web applications  
