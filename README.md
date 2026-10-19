@@ -88,9 +88,6 @@ A weather app with city search, location-based forecasts, and a responsive inter
 ### 🧠 [Quiz App](https://github.com/Mohammad-Kolivand/Quiz-App)
 An interactive quiz project with multiple-choice questions and score tracking.
 
-### 🐍 [DigiKala Django](https://github.com/Mohammad-Kolivand/Digikala-Django)
-A Django backend learning project as I continue growing my Python and backend engineering skills.
-
 ---
 
 ## 🌱 A Little More About Me
